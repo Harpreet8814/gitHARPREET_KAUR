@@ -1,0 +1,3 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICL3Vnx73DXHZb8cOo9oYhpdg0I2e9CbTC8SRq4oCOzC harpreet.Kaurdgo@triosstudent.com
+
+ssh-keygen -t ed25519 -C harpreet.Kaurdgo@triosstudent.com
